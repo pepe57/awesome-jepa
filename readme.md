@@ -30,12 +30,12 @@ To keep the community up-to-date with the latest developments, this repository i
 Whether you are building self-supervised learning systems, researching representation learning, or experimenting with predictive architectures for vision, language, or multimodal tasks, this resource offers a centralized, evolving platform to explore the powerful and expanding universe of JEPA-based systems.
 
 ## Last Updated
-May 18, 2026 at 04:03:50 AM UTC
+May 19, 2026 at 03:57:51 AM UTC
 
 
 ## Theorem
 
-## Papers (128)
+## Papers (131)
 - [PhysVideoGenerator: Towards Physically Aware Video Generation via Latent Physics Guidance](https://arxiv.org/abs/2601.03665)
 - [HanoiWorld : A Joint Embedding Predictive Architecture BasedWorld Model for Autonomous Vehicle Controller](https://arxiv.org/abs/2601.01577)
 - [BERT-JEPA: Reorganizing CLS Embeddings for Language-Invariant Semantics](https://arxiv.org/abs/2601.00366)
@@ -164,6 +164,9 @@ May 18, 2026 at 04:03:50 AM UTC
 - [Mini-JEPA Foundation Model Fleet Enables Agentic Hydrologic Intelligence](https://arxiv.org/abs/2605.14120)
 - [Entity-Centric World Models: Interaction-Aware Masking for Causal Video Prediction](https://arxiv.org/abs/2605.15466)
 - [Representation Without Reward: A JEPA Audit for LLM Fine-Tuning](https://arxiv.org/abs/2605.15394)
+- [Geometry-Aware Uncertainty Coresets for Robust Visual In-Context Learning in Histopathology](https://arxiv.org/abs/2605.18419)
+- [PEIRA: Learning Predictive Encoders through Inter-View Regressor Alignment](https://arxiv.org/abs/2605.17671)
+- [Factorized Latent Dynamics for Video JEPA: An Empirical Study of Auxiliary Objectives](https://arxiv.org/abs/2605.17165)
 
 
 ## Library
