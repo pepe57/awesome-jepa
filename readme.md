@@ -30,12 +30,12 @@ To keep the community up-to-date with the latest developments, this repository i
 Whether you are building self-supervised learning systems, researching representation learning, or experimenting with predictive architectures for vision, language, or multimodal tasks, this resource offers a centralized, evolving platform to explore the powerful and expanding universe of JEPA-based systems.
 
 ## Last Updated
-July 15, 2026 at 02:46:10 AM UTC
+July 16, 2026 at 02:52:14 AM UTC
 
 
 ## Theorem
 
-## Papers (188)
+## Papers (191)
 - [PhysVideoGenerator: Towards Physically Aware Video Generation via Latent Physics Guidance](https://arxiv.org/abs/2601.03665)
 - [HanoiWorld : A Joint Embedding Predictive Architecture BasedWorld Model for Autonomous Vehicle Controller](https://arxiv.org/abs/2601.01577)
 - [BERT-JEPA: Reorganizing CLS Embeddings for Language-Invariant Semantics](https://arxiv.org/abs/2601.00366)
@@ -224,6 +224,9 @@ July 15, 2026 at 02:46:10 AM UTC
 - [JEPA for AI-Native 6G: Predictive Representations and Open Challenges](https://arxiv.org/abs/2607.09798)
 - [MorphologyFM: A Foundation Model for Morphology-Aware Representation Learning from ECG and Pulse Oximetry Waveforms](https://arxiv.org/abs/2607.09749)
 - [Contrastive Joint-Embedding Prediction for Representation Learning in Structural MRI](https://arxiv.org/abs/2607.11962)
+- [Hierarchical Self-Supervised Representation Learning Framework for Multivariate Time Series Grounded in ECG Analysis](https://arxiv.org/abs/2607.01145)
+- [From Surface Forecasting to Observability Forecasting: A Latent World Model for Cloud-Aware EO Monitoring](https://arxiv.org/abs/2607.13651)
+- [The SIGReg Objective as Variational Free Energy: A Theoretical Active-Inference Account of JEPA World Models](https://arxiv.org/abs/2607.13612)
 
 
 ## Library
